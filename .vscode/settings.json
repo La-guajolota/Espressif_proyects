@@ -1,0 +1,5 @@
+{
+  "idf.espIdfPath": "/home/adrian/esp/v5.3.2/esp-idf",
+  "idf.toolsPath": "/home/adrian/.espressif",
+  "cmake.sourceDirectory": "/media/adrian/sd_linux/MCUs/ESP_IDF/hello_world/main"
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/adrian/sd_linux/MCUs/ESP_IDF/blink/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/media/adrian/sd_linux/MCUs/ESP_IDF/blink/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/media/adrian/sd_linux/MCUs/ESP_IDF/blink/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/media/adrian/sd_linux/MCUs/ESP_IDF/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/media/adrian/sd_linux/MCUs/ESP_IDF/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/media/adrian/sd_linux/MCUs/ESP_IDF/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/media/adrian/sd_linux/MCUs/ESP_IDF/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/media/adrian/sd_linux/MCUs/ESP_IDF/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/media/adrian/sd_linux/MCUs/ESP_IDF/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/media/adrian/sd_linux/MCUs/ESP_IDF/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
